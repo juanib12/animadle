@@ -5,7 +5,6 @@ import Icon from "./images/icon.png";
 function App() {
   const [solution, setSolution] = useState(null);
 
-  // console.log(solution)
 
   useEffect(() => {
     fetch("https://62e35146b54fc209b8875e4b.mockapi.io/solutions")
@@ -17,7 +16,6 @@ function App() {
       });
   }, [setSolution]);
 
-  console.log(solution);
   return (
     <div className="App">
       <div className="header">
