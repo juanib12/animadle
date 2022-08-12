@@ -20,7 +20,7 @@ export default function Modal({ isCorrect, solution, turn }) {
         <div>
           <h1>Perdiste :(</h1>
           <p className="solution">{solution}</p>
-          <p>Suerte en la proxima! :)</p>
+          <p>Suerte en la proxima :)</p>
           <button onClick={refreshPage} className="btn-modal">Volver a jugar</button>
         </div>
       )}
