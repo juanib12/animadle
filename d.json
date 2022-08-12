@@ -1,0 +1,176 @@
+[
+  {
+    "id": 1,
+    "word": "abeja"
+  },
+  {
+    "id": 2,
+    "word": "mosca"
+  },
+  {
+    "id": 3,
+    "word": "araña"
+  },
+  {
+    "id": 4,
+    "word": "ganzo"
+  },
+  {
+    "id": 5,
+    "word": "erizo"
+  },
+  {
+    "id": 6,
+    "word": "hiena"
+  },
+  {
+    "id": 7,
+    "word": "burro"
+  },
+  {
+    "id": 8,
+    "word": "perro"
+  },
+  {
+    "id": 9,
+    "word": "coipu"
+  },
+  {
+    "id": 10,
+    "word": "nutria"
+  },
+  {
+    "id": 11,
+    "word": "dingo"
+  },
+  {
+    "id": 12,
+    "word": "huron"
+  },
+  {
+    "id": 13,
+    "word": "koala"
+  },
+  {
+    "id": 14,
+    "word": "okapi"
+  },
+  {
+    "id": 15,
+    "word": "oveja"
+  },
+  {
+    "id": 16,
+    "word": "piojo"
+  },
+  {
+    "id": 17,
+    "word": "tejon"
+  },
+  {
+    "id": 18,
+    "word": "tucan"
+  },
+  {
+    "id": 19,
+    "word": "cabra"
+  },
+  {
+    "id": 20,
+    "word": "raton"
+  },
+  {
+    "id": 21,
+    "word": "tigre"
+  },
+  {
+    "id": 22,
+    "word": "gallo"
+  }
+  
+]
+
+
+[
+  {
+   "key": "a"
+  },
+  {
+   "key": "b"
+  },
+  {
+   "key": "c"
+  },
+  {
+   "key": "d"
+  },
+  {
+   "key": "e"
+  },
+  {
+   "key": "f"
+  },
+  {
+   "key": "g"
+  },
+  {
+   "key": "h"
+  },
+  {
+   "key": "i"
+  },
+  {
+   "key": "j"
+  },
+  {
+   "key": "k"
+  },
+  {
+   "key": "l"
+  },
+  {
+   "key": "m"
+  },
+  {
+   "key": "n"
+  },
+  {
+   "key": "ñ"
+  },
+  {
+   "key": "o"
+  },
+  {
+   "key": "p"
+  },
+  {
+   "key": "q"
+  },
+  {
+   "key": "r"
+  },
+  {
+   "key": "s"
+  },
+  {
+   "key": "t"
+  },
+  {
+   "key": "u"
+  },
+  {
+   "key": "v"
+  },
+  {
+   "key": "w"
+  },
+  {
+   "key": "x"
+  },
+  {
+   "key": "y"
+  },
+  {
+   "key": "<"
+  }
+ ]
