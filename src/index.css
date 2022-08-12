@@ -15,21 +15,28 @@ body {
   margin-left: 400px;
   margin-right: 400px;
   display: flex;
-  flex-direction: column;
+  flex-direction: row;
   align-items: center;
   justify-content: center;
-
   background: rgba(218, 220, 224, 0.03);
   border-radius: 15px;
 }
 
+.App p {
+  font-family: 'Roboto';
+  color: #DADCE0;
+  position: relative;
+  font-size: 12px;
+}
+
+
 h1 {
+
   font-family: 'Roboto';
   font-size: 28px;
-  /* padding: 20px 0; */
-  /* border-bottom: 1px solid #DADCE0; */
-  /* margin: 0 0 30px 0; */
   color: #DADCE0;
+  position: relative;
+
 }
 
 /* rows */
@@ -156,12 +163,12 @@ h1 {
   cursor: pointer;
 }
 
-.btn-modal:hover{
+.btn-modal:hover {
   background: #353a4e;
   transition: all 0.3s ease;
 }
 
-.btn-modal:not(hover){
+.btn-modal:not(hover) {
   transition: all 0.3s ease;
 }
 

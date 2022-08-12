@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import Wordle from "./components/Wordle";
+import Icon from "./images/icon.png";
 
 function App() {
   const [solution, setSolution] = useState(null);
@@ -20,8 +21,10 @@ function App() {
   return (
     <div className="App">
       <div className="header">
+        <img src={Icon} width="60px" />
         <h1>ANIMADLE</h1>
       </div>
+      <p>by: Juan Bianco</p>
       {solution && <Wordle solution={solution} />}
     </div>
   );
